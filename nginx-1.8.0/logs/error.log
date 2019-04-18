@@ -1,0 +1,5 @@
+2019/04/13 10:07:09 [error] 8372#9844: *1 CreateFile() "E:\nginx-1.8.0\nginx-1.8.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/04/13 10:30:39 [emerg] 8516#9376: bind() to 0.0.0.0:8081 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/04/13 10:31:44 [notice] 6296#8828: signal process started
+2019/04/13 10:37:23 [emerg] 3960#3976: bind() to 0.0.0.0:8081 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/04/13 10:40:04 [emerg] 9884#8356: bind() to 0.0.0.0:8081 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
